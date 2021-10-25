@@ -1,11 +1,17 @@
 # Atol-Lab-Autonomous-PiCar-Project
 
-### Most import aspects of car assembly:
+### Most Important Aspects Of Car Assembly:
 * Battery holder installation
 * Steering servo connection to front wheel axle
 * Back wheel motor connections
 * Web camera installation
 
+### Ideas To Improve Quality:
+* Bolts that are easier to screw to ease process of dissasembly if required
+* Quick charging batteries
+* Wire clips for USB Connections
+
+### Car Assembly Photos
 #### Unboxing Of Assembly Parts
 ![IMG_0074](https://user-images.githubusercontent.com/61124814/138744380-3b8b669b-3f4d-42b5-a94c-f0765a0e244e.jpeg)  
 #### Robot Hat With Protective Case
