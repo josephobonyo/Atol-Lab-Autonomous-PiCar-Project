@@ -5,7 +5,8 @@
 * Steering servo connection to front wheel axle
 * Back wheel motor connections
 * Web camera installation
-*
+
+#### Unboxing Of Assembly Parts
 ![IMG_0074](https://user-images.githubusercontent.com/61124814/138744380-3b8b669b-3f4d-42b5-a94c-f0765a0e244e.jpeg)
 ![IMG_0066](https://user-images.githubusercontent.com/61124814/138743507-7a4dab91-0139-4503-9fe4-1f06d1b75c2e.jpeg)
 ![IMG_0065](https://user-images.githubusercontent.com/61124814/138743543-1bbe3337-24fb-4b9b-885e-3697f8ef83f2.jpeg)
