@@ -6,6 +6,7 @@
 * Back wheel motor connections
 * Web camera installation
 
+![IMG_0073](https://user-images.githubusercontent.com/61124814/138744303-cb54b89a-3c7a-469c-984a-84e84be3cd1d.jpeg)
 ![IMG_0066](https://user-images.githubusercontent.com/61124814/138743507-7a4dab91-0139-4503-9fe4-1f06d1b75c2e.jpeg)
 ![IMG_0065](https://user-images.githubusercontent.com/61124814/138743543-1bbe3337-24fb-4b9b-885e-3697f8ef83f2.jpeg)
 ![IMG_0072](https://user-images.githubusercontent.com/61124814/138743554-080d4deb-427d-411a-8f88-291ceb0c2d77.jpeg)
