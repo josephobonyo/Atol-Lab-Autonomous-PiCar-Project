@@ -13,32 +13,49 @@
 
 ### Car Assembly Photos
 #### Unboxing Of Assembly Parts
-<img src="https://user-images.githubusercontent.com/61124814/138744380-3b8b669b-3f4d-42b5-a94c-f0765a0e244e.jpeg" width="600" height="700">  
+<img src="https://user-images.githubusercontent.com/61124814/138744380-3b8b669b-3f4d-42b5-a94c-f0765a0e244e.jpeg" width="450" height="auto">  
 
 #### Robot Hat With Protective Case
-<img src="https://user-images.githubusercontent.com/61124814/138743507-7a4dab91-0139-4503-9fe4-1f06d1b75c2e.jpeg" width="600" height="700">  
+<img src="https://user-images.githubusercontent.com/61124814/138743507-7a4dab91-0139-4503-9fe4-1f06d1b75c2e.jpeg" width="450" height="auto">  
 
 #### Camera At Different Angles 
-<img src="https://user-images.githubusercontent.com/61124814/138743543-1bbe3337-24fb-4b9b-885e-3697f8ef83f2.jpeg" width="600" height="700">  
-<img src="https://user-images.githubusercontent.com/61124814/138743554-080d4deb-427d-411a-8f88-291ceb0c2d77.jpeg" width="600" height="700">  
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/61124814/138743543-1bbe3337-24fb-4b9b-885e-3697f8ef83f2.jpeg" width="450" height="auto">  
+      <img src="https://user-images.githubusercontent.com/61124814/138743554-080d4deb-427d-411a-8f88-291ceb0c2d77.jpeg" width="450" height="auto"> 
+    </td>
+   </tr>   
+</table>
 
-#### Wires From Motors And Batteries To The Raspberry Pi Computer
-<img src="https://user-images.githubusercontent.com/61124814/138743579-4b53f83b-c3fa-47ae-bf2b-11d342f5784a.jpeg" width="600" height="700">  
+#### Wires From Motors And Batteries To The Raspberry Pi Computer & Motors And Battery Attachment   
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/61124814/138743579-4b53f83b-c3fa-47ae-bf2b-11d342f5784a.jpeg" width="450" height="auto">    
+      <img src="https://user-images.githubusercontent.com/61124814/138743597-cc07fd92-853a-4e0e-b6ac-0d1f1d96baff.jpeg" width="450" height="auto">   
+    </td>
+   </tr>   
+</table>
 
-#### Motors And Battery Attachment 
-<img src="https://user-images.githubusercontent.com/61124814/138743597-cc07fd92-853a-4e0e-b6ac-0d1f1d96baff.jpeg" width="600" height="700">  
+#### SD Card Placement & Front Wheel Screws  
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/61124814/138743610-69264752-52f8-460a-9b5c-535a534c4e43.jpeg" width="450" height="auto">    
+      <img src="https://user-images.githubusercontent.com/61124814/138743627-4b6c12f2-16ac-432b-b405-2ae5f87c96eb.jpeg" width="450" height="auto">   
+    </td>
+   </tr>   
+</table>
 
-#### SD Card Placement  
-<img src="https://user-images.githubusercontent.com/61124814/138743610-69264752-52f8-460a-9b5c-535a534c4e43.jpeg" width="600" height="700">  
-
-#### Front Wheel Screws 
-<img src="https://user-images.githubusercontent.com/61124814/138743627-4b6c12f2-16ac-432b-b405-2ae5f87c96eb.jpeg" width="600" height="700">  
-
-#### Servo To Front Wheel Axle Attachment
-<img src="https://user-images.githubusercontent.com/61124814/138743645-2e5e5a5d-b95b-431e-be37-2f75228d598d.jpeg" width="600" height="700">  
-
-#### USB Camera Mount
-<img src="https://user-images.githubusercontent.com/61124814/138743663-fc197840-428d-48c4-854a-5021fcbe43df.jpeg" width="600" height="700">  
-
+#### Servo To Front Wheel Axle Attachment & USB Camera Mount  
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/61124814/138743645-2e5e5a5d-b95b-431e-be37-2f75228d598d.jpeg" width="450" height="auto">   
+      <img src="https://user-images.githubusercontent.com/61124814/138743663-fc197840-428d-48c4-854a-5021fcbe43df.jpeg" width="450" height="auto">   
+    </td>
+   </tr>   
+</table>
 
 ### Running The Training and Detection Models
