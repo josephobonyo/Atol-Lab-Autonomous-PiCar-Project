@@ -59,3 +59,7 @@
 </table>
 
 ### Running The Training and Detection Models
+<img width="1032" alt="Screen Shot 2021-12-07 at 3 50 27 PM" src="https://user-images.githubusercontent.com/61124814/145125155-5e7bcb8e-ca94-4b34-943c-3d2d45f18fba.png">
+<img width="1268" alt="Screen Shot 2021-12-07 at 4 01 01 PM" src="https://user-images.githubusercontent.com/61124814/145125209-dbad8921-16c6-4b7c-80c9-240f3c02df38.png">
+<img width="926" alt="Screen Shot 2021-12-07 at 4 27 19 PM" src="https://user-images.githubusercontent.com/61124814/145125217-2d797083-fb24-44dc-8e83-550274a7bffd.png">
+<img width="520" alt="Screen Shot 2021-12-06 at 7 50 54 PM" src="https://user-images.githubusercontent.com/61124814/145125224-6ab7d215-76ef-4c76-8d31-28a8b32ee84c.png">
