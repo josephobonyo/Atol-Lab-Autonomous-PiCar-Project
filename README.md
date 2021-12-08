@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/61124814/138743543-1bbe3337-24fb-4b9b-885e-3697f8ef83f2.jpeg" width="400" height="auto">  
+      <img src="https://user-images.githubusercontent.com/61124814/138743543-1bbe3337-24fb-4b9b-885e-3697f8ef83f2.jpeg" width="375" height="auto">  
       <img src="https://user-images.githubusercontent.com/61124814/138743554-080d4deb-427d-411a-8f88-291ceb0c2d77.jpeg" width="400" height="auto"> 
     </td>
    </tr>   
