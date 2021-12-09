@@ -68,25 +68,14 @@
 <img width="1032" alt="Screen Shot 2021-12-07 at 3 50 27 PM" src="https://user-images.githubusercontent.com/61124814/145127643-de2acd6e-0b90-42ef-b8a5-57e11893c5d8.png" height="auto">
 <img width="940" alt="Screen Shot 2021-12-07 at 4 24 45 PM" src="https://user-images.githubusercontent.com/61124814/145127679-84abd258-8150-4c24-ad0c-abd7cab31a13.png" height="auto">
 
-<video>
-  <source src="https://user-images.githubusercontent.com/74628357/145130998-a36154f1-9689-4468-a834-6981ccbc2af0.mp4">
-  <source src="https://user-images.githubusercontent.com/74628357/145467206-0316fa6e-06f8-4b86-93d7-e62050385c86.mp4">
-</video>
-
-<tr style="bold">
-  Autonomous Car Lane Detection
-</tr>
-<video alt="Autonomous Car Lane Detection" src="https://user-images.githubusercontent.com/74628357/145130998-a36154f1-9689-4468-a834-6981ccbc2af0.mp4">
+### Autonomous Car Lane Detection
+<video alt="Autonomous Car Lane Detection" src="https://user-images.githubusercontent.com/74628357/145130998-a36154f1-9689-4468-a834-6981ccbc2af0.mp4"> </video>
 
 
-<tr style="bold">
-  First Run
-</tr>
-<video alt="First Run" src="https://user-images.githubusercontent.com/74628357/145467206-0316fa6e-06f8-4b86-93d7-e62050385c86.mp4">
+### First Run
+<video alt="First Run" src="https://user-images.githubusercontent.com/74628357/145467206-0316fa6e-06f8-4b86-93d7-e62050385c86.mp4"> </video>
 
-
-<tr style="bold">
-  Optimized Run With Stop Sign Detection
-</tr>
-<video alt="Optimized Run With Stop Sign Detection" src="https://user-images.githubusercontent.com/74628357/145467295-7e9601ec-9bd3-44e3-811c-e542e65b6c64.mp4"> 
+### Optimized Run With Stop Sign Detection  
+Car stopped for a long pause at the stop sign showing that the detection, while faulty and producing lots of false positives, worked for the stop sign
+<video alt="Optimized Run With Stop Sign Detection" src="https://user-images.githubusercontent.com/74628357/145467295-7e9601ec-9bd3-44e3-811c-e542e65b6c64.mp4"> </video>
   
