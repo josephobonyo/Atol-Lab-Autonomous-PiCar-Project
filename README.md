@@ -65,7 +65,9 @@
 <img width="1268" alt="Screen Shot 2021-12-07 at 4 01 01 PM" src="https://user-images.githubusercontent.com/61124814/145127661-7858b419-c641-4a5c-b4b0-c310fad3e2a0.png" height="auto">
 
 ### Running the Detection Models
+ Ran python dmcar_lane.py -b 4 to activate lane detection, worked correctly
 <img width="1032" alt="Screen Shot 2021-12-07 at 3 50 27 PM" src="https://user-images.githubusercontent.com/61124814/145127643-de2acd6e-0b90-42ef-b8a5-57e11893c5d8.png" height="auto">
+ Ran python dmcar.py -b 4 to activate stop sign detection, worked correctly with detection accuracy
 <img width="940" alt="Screen Shot 2021-12-07 at 4 24 45 PM" src="https://user-images.githubusercontent.com/61124814/145127679-84abd258-8150-4c24-ad0c-abd7cab31a13.png" height="auto">
 
 ### Autonomous Car Lane Detection
